@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project jwt_GUI -->
+<!-- Saved: 2024-03-14, 14:17:27 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="2" uid="{274be410-9651-44dd-b1df-d591254175b0}">
+    <Summary>WARNING: Any manual changes made to this file will be lost when pyuic5 is</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:15:52</Created>
+    <Resource>
+      <Filename>Ui_jwt_GUI.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{6f15ff3b-8c53-4efa-a502-6268520082f7}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>39</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{ab20baa0-54ef-4bb3-b438-2a62ec2856d8}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>61</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{bdd9c895-8337-498e-9967-381c10a99e53}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>79</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{bb3d7161-1311-48f0-945c-47c6f98f393c}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>116</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{3ddc1f70-d4d6-4587-8d06-b87312af6ff2}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>146</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{eed1f01a-6db7-48fb-9597-e3f47253df96}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>162</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{df7fac3c-a626-496d-b887-0153c972c41d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>174</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{247331f2-6cbb-41cc-84d0-81ec7bb9047e}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>222</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{57ebf668-797e-4dc3-bc57-d4b20eadf7cb}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>235</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{436a9af4-594c-408d-a40b-b12064025647}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>272</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{c1dc1ab7-ad43-487e-ae33-8bf7bf675f82}">
+    <Summary>TODO: not implemented yet]</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>280</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{7b83ba5d-6dcd-4af3-a438-dfb1708c66fa}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>294</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{f358ee12-36f9-4b2d-9c54-1e8c95343c5f}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>303</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{007b9c2d-66db-4e28-b32e-77f87a9fd0b0}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>312</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{c4c88b99-c20b-4ad0-9cfa-0034d882a798}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>321</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{63d6cdde-3242-4e92-b1b7-7d9d5710c691}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2024-03-14, 14:16:51</Created>
+    <Resource>
+      <Filename>jwt_GUI.py</Filename>
+      <Linenumber>335</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
